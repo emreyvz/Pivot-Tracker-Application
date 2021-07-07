@@ -2,7 +2,7 @@
 
 # Pivot Tracker Application
 
-A Windows application to track specific share's pivot values into Excel sheet
+A Windows application to track pivot values of specific shares into Excel sheet
 > Written by Emre Yavuz | github.com/emreyvz
 
 **About application*
